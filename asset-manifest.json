@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mdb-movies-react/static/css/main.60391325.css",
-    "main.js": "/mdb-movies-react/static/js/main.28e38218.js",
-    "static/media/mdbIcon.png": "/mdb-movies-react/static/media/mdbIcon.330c133b3b4cd02dfb92.png",
-    "index.html": "/mdb-movies-react/index.html",
-    "main.60391325.css.map": "/mdb-movies-react/static/css/main.60391325.css.map",
-    "main.28e38218.js.map": "/mdb-movies-react/static/js/main.28e38218.js.map"
+    "main.css": "/static/css/main.60391325.css",
+    "main.js": "/static/js/main.e97802cd.js",
+    "static/media/mdbIcon.png": "/static/media/mdbIcon.330c133b3b4cd02dfb92.png",
+    "index.html": "/index.html",
+    "main.60391325.css.map": "/static/css/main.60391325.css.map",
+    "main.e97802cd.js.map": "/static/js/main.e97802cd.js.map"
   },
   "entrypoints": [
     "static/css/main.60391325.css",
-    "static/js/main.28e38218.js"
+    "static/js/main.e97802cd.js"
   ]
 }
