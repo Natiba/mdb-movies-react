@@ -1,0 +1,25 @@
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 34% 0 2%;
+    border: 4px double rgb(104, 179, 181);
+    margin: 1%;
+    border-radius: 15px
+}
+
+.icon {
+    width: 6em;
+}
+
+.title {
+    color: rgb(138, 199, 174);
+    background-size: 100%;
+    background-image: linear-gradient(45deg, rgb(152, 202, 166), rgb(104, 179, 181), rgb(81, 176, 221));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+    font-size: 4em;
+}
